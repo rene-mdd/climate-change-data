@@ -55,6 +55,7 @@ This set of resources is based on my own research but feel free to add anything 
 |  Waterservices USGS API | [LINK](https://waterservices.usgs.gov/rest/ "LINK") | water | The service lets you acquire near real-time water data from thousands of sites managed or monitored by the USGS across the US. |  |
 |  WattzOn Link API | [LINK](https://www.wattzon.com/api/link-energy/ "LINK") | energy | WattzOn Link is a software-as-a-service (SaaS) platform for retrieving billing and usage data from utility providers |  |
 |  WattzOn Snap API | [LINK](https://www.wattzon.com/api/snap/ "LINK") | energy | WattzOn Snap is a software-as-a-service (SaaS) platform for extracting usage data from images of bills from residential utility providers. |  |
+|  Global Warming API | [LINK](https://global-warming.org/ "LINK") | Co2 | methane | nitrous oxide | atmosphere concentration | earth & ocean temperature  | Climate Accountability API is a Berlin-based non-profit that provides APIs related to global warming and atmospheric greenhouse gases. |  |
 
 ## Open Data
 
